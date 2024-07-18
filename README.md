@@ -1,7 +1,7 @@
 # SOAR-EDR-AUTOMATION
 
 TOOLS USED:
-TINES as SOAR
+TINES as SOAR <br>
 Limacharlie as EDR
 
 
